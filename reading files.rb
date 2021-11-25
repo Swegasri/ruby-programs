@@ -1,4 +1,4 @@
-filename = ARGV.first
+filename ="E:/Ruby/Ruby ex.txt"
 
 txt = open(filename)
 

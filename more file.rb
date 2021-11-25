@@ -1,4 +1,4 @@
-from_file, to_file = ARGV
+from_file, to_file ="E:/Ruby/Ruby ex.txt"
 
 puts "Copying from #{from_file} to #{to_file}"
 

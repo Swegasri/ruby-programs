@@ -1,4 +1,4 @@
-input_file = ARGV.first
+input_file = "E:/Ruby/Ruby ex.txt"
 
 def print_all(f)
   puts f.read

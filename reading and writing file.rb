@@ -1,4 +1,4 @@
-filename = ARGV.first
+filename = "E:/Ruby/Ruby ex.txt"
 
 puts "We're going to erase #{filename}"
 puts "If you don't want that, hit CTRL-C (^C)."
